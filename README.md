@@ -7,7 +7,7 @@ Computer Science, Senior
 
 
 
-1 Background
+1. Background
 As networked systems become more and more pervasive and businesses continue to move more and more of their sensitive data online, the number and sophistication of cyber attacks and network security breaches has risen dramatically. Organizations are increasingly relying on network intrusion detection systems (NIDS) to monitor their network traffic and report suspicious behavior. 
 
 2. Project Goal
@@ -25,7 +25,6 @@ An SVM is a discriminative classifier formally defined by a separating hyperplan
 
 4. Deliverables
 By the end of next semester, the following will be produced:
-
 A custom-made network intrusion detection system implementing one or more of the classification algorithms discussed in Section 3.
 A dataset of sample network traffic that includes “normal” network traffic patterns and suspicious traffic. 
 
